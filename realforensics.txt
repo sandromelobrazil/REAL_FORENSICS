@@ -1,0 +1,8 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ninjadev/estudos_python/REAL_FORENSIC
+## $ hashdeep realforensic_case1.pcap realforensics.txt snort.log.pcap
+## 
+16352490,fa04769b2b934c23f98e00a0852c1b9a,86b527f177de584fa909451498a79edf17cd79932565ea2c71139554b02b4a11,/home/ninjadev/estudos_python/REAL_FORENSIC/realforensic_case1.pcap
+359,d6a17731c85076d7aec07dd65173e174,d6dbf2e13d70259ff711e91355bf557c6f3392fdb833d5974316342eb5b67942,/home/ninjadev/estudos_python/REAL_FORENSIC/realforensics.txt
+64598,8c099190e8ad43fb24c35262ed38de06,f69afef8464787a6145b0618b892fbc9c91c0c8160b08e52b59cfec7d0e63da2,/home/ninjadev/estudos_python/REAL_FORENSIC/snort.log.pcap
